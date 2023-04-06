@@ -1,0 +1,56 @@
+.screen{
+    
+   
+    background-image: url('https://t4.ftcdn.net/jpg/00/03/37/45/240_F_3374544_IJpvIogrO8wQAPWFldV2PQRSTU1OEK.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.container{
+
+ margin-left: 10vw;
+ margin-top: 4vh;
+  height: 70vh;
+  width: 50vw;
+  border: none;
+
+}
+
+.heading{
+    font-size: 60px;
+    margin-left: 4vw;
+}
+
+.main{
+    height: 60vh;
+    width: 30vw;
+    border: none;
+    
+
+    
+}
+
+input{
+    height: 4vh;
+    width: 20vw;
+    border-radius: 10px;
+    margin-left:2vw;
+
+}
+
+
+.inf{
+    margin-top: 15vh;
+    margin-left: 6vw;
+    height: 40vh;
+     width: 15vw;
+     background-color: cornflowerblue;
+     }
